@@ -1,0 +1,11 @@
+sous-vettement:1000:15:15000:
+chaussures:4500:11:49500:
+pantalons:3500:8:28000:
+chemises:1500:12:18000
+ceintures:500:25:12500
+veste:300:20:6000:
+jins:2500:17:42500:
+costumes:10000:3:30000:
+chaussettes:300:20:6000:
+vans:4000:12:48000:
+timberline:8000:6:48000:

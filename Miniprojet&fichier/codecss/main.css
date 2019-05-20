@@ -1,0 +1,151 @@
+.vert, .Bgdanger{
+    color: #ffffff;
+    font-weight: bolder;
+    width: 50%;
+    padding: 1%;
+}
+.Bgdanger{
+    background-color: crimson;
+}
+.vert{
+    background-color: lime;
+}
+.Bgauth{
+    background-image: url(../img.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+ /* code form authentification*/
+ #status {
+    /*border: #1b3815 solid 2px;*/
+    border-radius: 10px;
+    width: 100%;
+    padding: 3.5%;
+ }
+ #autorisation{
+    border-radius: 10px;
+    width: 100%;
+    padding: 3.5%;
+ }
+#form{
+    border: solid 2px #6c5ce7;
+    border-radius: 20px;
+    margin-top: 4%;
+    margin-left: 35%;
+    padding: 0%;
+    padding-bottom: 3%;
+    width: 30%;
+}
+#form1{
+    margin: auto;
+    /*border: solid 3px #57b846;*/
+}
+#ajout{
+    border: solid none;
+    background-color: #ebebeb;
+    border-radius: 10px;
+    padding: 3%;
+}
+#legend{
+    background-color: #6c5ce7;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 3%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bolder;
+    width: 100%;
+}
+#legend legend{
+    font-size: 25px;
+}
+#login{
+    margin-left: 15%;
+    width: 90%;
+}
+#password{
+    margin-left: 15%;
+    width: 90%;
+}
+#write{
+    border: solid none;
+    background-color: #ebebeb;
+    border-radius: 25px;
+    padding: 5%;
+}
+#send{
+    margin-left: 48%;
+    padding: 0px;
+}
+#senduser, #sendauth{
+    margin-left: 42%;
+}
+.pull-right, .envoyer, .envoyerauth{
+    background-color: #6c5ce7;
+    color: #ffffff;
+    margin-top: 5%;
+    margin-left: -17%;
+    text-align: center;
+    height: 50px;
+}
+.pull-right:hover{
+    background-color: #241c69;
+}
+.pull-right p, .envoyer p, .envoyerauth p{
+    font-weight: bolder;
+    padding: 5px;
+    font-size: 18px;
+}
+.envoyerauth{
+    width: 50%;
+}
+.pull-right{
+    width: 40%;
+}
+.envoyer{
+    width: 120%;
+}
+@media screen and (max-width: 768px){
+#login{
+    margin-left: 5%;
+}
+#password{
+    margin-left: 5%;
+}
+#form{
+    margin-left: 0%;
+}
+}
+/* code tableau*/
+.table1{
+    margin: auto;
+    text-align: center;
+   /* border: 1px solid;*/
+    width: 100%;
+}
+th{
+    padding: 1%;
+    background-color: #241c69;
+    color: #ffffff;
+}
+td{
+    padding: 1%;
+}
+/* code ajout*/
+.ajout{
+    margin: auto;
+}
+/* Titre de nos différents title menu*/
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin: 10px;
+    text-align: center;
+    color: #241c69;
+}
+ .rouge{
+     background-color: crimson;
+     width: 100%;
+ }

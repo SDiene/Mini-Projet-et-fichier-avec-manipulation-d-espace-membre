@@ -1,0 +1,4 @@
+Diene,Bfall,12345,Rio,778546321,user,actif,
+kader,redak,abcdef,Thiaroye,778450012,admin,inactif,
+fatou,toufa,1230,Rio,741852963,user,actif,
+fatou,toufa,12300,Rio,7418520963,user,inactif,
